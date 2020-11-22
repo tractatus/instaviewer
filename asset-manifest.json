@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/instaviewer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/instaviewer/static/js/main.0fc853d0.chunk.js",
+    "main.js.map": "/instaviewer/static/js/main.0fc853d0.chunk.js.map",
+    "runtime-main.js": "/instaviewer/static/js/runtime-main.f09d4da7.js",
+    "runtime-main.js.map": "/instaviewer/static/js/runtime-main.f09d4da7.js.map",
+    "static/js/2.d9482985.chunk.js": "/instaviewer/static/js/2.d9482985.chunk.js",
+    "static/js/2.d9482985.chunk.js.map": "/instaviewer/static/js/2.d9482985.chunk.js.map",
+    "static/js/3.99d69dbe.chunk.js": "/instaviewer/static/js/3.99d69dbe.chunk.js",
+    "static/js/3.99d69dbe.chunk.js.map": "/instaviewer/static/js/3.99d69dbe.chunk.js.map",
+    "index.html": "/instaviewer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/instaviewer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d9482985.chunk.js.LICENSE.txt": "/instaviewer/static/js/2.d9482985.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/instaviewer/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f09d4da7.js",
+    "static/js/2.d9482985.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0fc853d0.chunk.js"
+  ]
+}
